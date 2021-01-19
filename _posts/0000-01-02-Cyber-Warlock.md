@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+"A brilliant general has won the battle before it begins."
 Use the left arrow to go back!
